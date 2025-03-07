@@ -37,15 +37,37 @@ A gauge chart showing the total number of affected people (in billions) and high
 - Assists researchers in tracking trends of global health conditions.
 - Enables stakeholders to make data-driven decisions regarding healthcare infrastructure and treatment plans.
 
-## How to Use
-1. **Download the Power BI File (.pbix) from this repository**.
-2. **Open it in Power BI Desktop**.
-3. **Explore interactive visualizations** by clicking on different charts and filters.
+## Project Outcomes  
+
+1. **Comprehensive Health Insights**  
+   - Provides a clear picture of **disease prevalence, affected populations, and recovery rates** globally.  
+   - Highlights **key healthcare metrics**, such as the number of doctors per 1,000 people and incidence rates.  
+
+2. **Data-Driven Decision Making for Healthcare**  
+   - Assists policymakers in **allocating healthcare resources** based on disease trends.  
+   - Supports **public health organizations** in formulating data-backed strategies for disease control and prevention.  
+
+3. **Trend Analysis for Global Health**  
+   - Tracks **historical health trends** from 2000 to the present, helping researchers identify **emerging health crises**.  
+   - Displays the impact of **different treatments** (medication, therapy, vaccination, and surgery) on disease outcomes.  
+
+4. **Geographical Disease Impact Analysis**  
+   - Provides country-wise insights to identify regions **most affected by specific diseases**.  
+   - Helps global health organizations and governments **prioritize intervention efforts** effectively.  
+
+5. **User-Friendly & Interactive Dashboard**  
+   - Enables users to explore **interactive visualizations** for quick and meaningful insights.  
+   - Enhances accessibility with **clear data representation and dynamic filters**.  
+
+6. **Future-Ready Analytics**  
+   - Sets the foundation for **predictive analytics** to anticipate future health trends.  
+   - Can be expanded to include **real-time health data monitoring** for live updates.  
 
 ## Future Improvements
 - Integration of real-time data sources for live updates.
 - More advanced predictive analytics for disease trends.
 - Enhanced geographical insights with country-wise drill-down features.
+- 
 ## Dataset used 
 [Dataset](https://github.com/Moazam-Alii/Global-Health-Statistics-Dashboard/blob/main/GLOBALHEALTH-SAMPLEDATA.xlsx)
 
