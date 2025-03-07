@@ -1,4 +1,4 @@
-# Global-Health-Statistics-Dashboard
+# Global-Health-Statistics-Dashboard Power-Bi Project
 
 This Power BI project presents a comprehensive **Global Health Statistics Dashboard**, which provides insights into worldwide health data, including disease prevalence, affected population, and recovery rates. The dashboard offers an interactive and visually appealing representation of key global health metrics.
 ## Features and Visualizations
@@ -50,4 +50,4 @@ A gauge chart showing the total number of affected people (in billions) and high
 [Dataset](https://github.com/Moazam-Alii/Global-Health-Statistics-Dashboard/blob/main/GLOBALHEALTH-SAMPLEDATA.xlsx)
 
 ## Dashboard Representation
-[Dashboard]()
+[Dashboard](https://github.com/Moazam-Alii/Global-Health-Statistics-Dashboard/blob/main/dbpic.PNG)
