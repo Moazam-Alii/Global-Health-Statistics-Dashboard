@@ -46,4 +46,8 @@ A gauge chart showing the total number of affected people (in billions) and high
 - Integration of real-time data sources for live updates.
 - More advanced predictive analytics for disease trends.
 - Enhanced geographical insights with country-wise drill-down features.
+## Dataset used 
+[Dataset](https://github.com/Moazam-Alii/Global-Health-Statistics-Dashboard/blob/main/GLOBALHEALTH-SAMPLEDATA.xlsx)
 
+## Dashboard Representation
+[Dashboard]()
